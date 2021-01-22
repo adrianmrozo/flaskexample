@@ -4,6 +4,15 @@ after downloading this folder you have to make both shell scrips (*.sh) executab
 ``` bash
 chmod +x file_name.sh
 ```
+
+so:
+
+``` 
+chmod +x build_image.sh
+chmod +x run_container.sh
+``` 
+
+
 ### build the image (first usage)
 ``` bash 
 ./build_image.sh
